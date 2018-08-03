@@ -1,9 +1,9 @@
 <?php ob_start() ?>
 <?php
 	define("DB_SERVER", "localhost");
-	define("DB_USER", "saurya_iotprod");
-	define("DB_PASS", "cJL5vS4.nzX[");
-	define("DB_NAME", "saurya_rmsprod");
+	define("DB_USER", "username");
+	define("DB_PASS", "pass");
+	define("DB_NAME", "dbname");
     error_reporting(0);
 	
 	// define("DB_SERVER", "localhost");
